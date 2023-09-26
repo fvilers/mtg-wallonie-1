@@ -31,3 +31,12 @@ MTG Wallonie #1</small>
 - Speaker au Dev Day, PowerBranch, Software Craft Luxembourg, DevFM, Journée Agile,...
 - Suivez moi (@fvilers) sur [GitHub](https://github.com/fvilers), [Twitter](https://twitter.com/fvilers), ou [Instagram](https://www.instagram.com/fvilers)
 - Soyons connectés sur [LinkedIn](https://www.linkedin.com/in/fvilers)
+
+---
+
+# La fatigue JavaScript
+
+- Évolution rapide et constante de l'écosystème
+- Rythme de publication des navigateurs, bibliothèques, frameworks, outils, et technologies
+- Demandes [extravagantes](https://twitter.com/tiangolo/status/1281946592459853830?lang=en) du marché
+- Épuisement et frustration des développeurs
