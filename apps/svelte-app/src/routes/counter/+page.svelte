@@ -13,3 +13,9 @@
 <Counter value={counter} />
 <Counter value={doubled} />
 <button on:click={increment}>Increment</button>
+
+<style>
+  h1 {
+    color: orangered;
+  }
+</style>
