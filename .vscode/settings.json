@@ -1,6 +1,7 @@
 {
   "files.exclude": {
     "**/.angular": true,
+    "**/.svelte-kit": true,
     "**/dist": true,
     "**/node_modules": true,
     "**/package-lock.json": true

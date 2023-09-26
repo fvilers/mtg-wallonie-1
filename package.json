@@ -2,6 +2,7 @@
   "name": "apps",
   "workspaces": [
     "apps/angular-app",
-    "apps/react-app"
+    "apps/react-app",
+    "apps/svelte-app"
   ]
 }
