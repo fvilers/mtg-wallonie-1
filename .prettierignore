@@ -1,0 +1,3 @@
+# Prettier is too opiniated about the unordered list symbol as it keeps converting * to -.
+# Marp use the * symbol to create a reveal animation for an unordered list
+slides/index.md
