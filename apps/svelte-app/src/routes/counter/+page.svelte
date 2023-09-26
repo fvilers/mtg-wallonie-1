@@ -9,6 +9,10 @@
   }
 </script>
 
+<svelte:head>
+  <title>Counter | Svelte app</title>
+</svelte:head>
+
 <h1>Counter</h1>
 <Counter value={counter} />
 <Counter value={doubled} />

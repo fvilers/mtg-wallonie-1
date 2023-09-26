@@ -1,4 +1,5 @@
 import { useCallback, useMemo, useState } from "react";
+import { useTitle } from "../useTitle";
 import Counter from "./Counter";
 import styles from "./CounterPage.module.css";
 
@@ -6,6 +7,8 @@ function CounterPage() {
   const [counter, setCounter] = useState(0);
   const doubled = useMemo(() => counter * 2, [counter]);
   const increment = useCallback(() => setCounter((current) => current + 1), []);
+
+  useTitle("Counter | React app");
 
   return (
     <>
