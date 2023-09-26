@@ -1,7 +1,10 @@
 <script lang="ts">
   import Counter from "$lib/components/Counter.svelte";
+  import type { PageData } from "./$types";
 
-  let counter = 0;
+  export let data: PageData;
+
+  $: counter = data.counter;
   $: doubled = counter * 2;
 
   function increment() {
