@@ -56,3 +56,15 @@ MTG Wallonie #1</small>
 * Webpack, Rollup, Vite, esbuild, Parcel,...
 * ESLint, Prettier,...
 * Jest, Karma, Jasmine, Vitest, Playwright, Cypress,...
+
+---
+
+# Comment Svelte peut vous aider
+
+- Il suffit de connaître HTML, CSS, et JavaScript
+- Code compilé en JavaScript
+- Expérience développeur hors du commun
+- Réactif sans surcoût ou dépendance
+- Pas de DOM virtuel, donc pas de pertes de performance
+- Un [tutoriel](https://learn.svelte.dev/tutorial/welcome-to-svelte) hors du commun
+- Second framework le plus admiré dans [le sondage annuel]((https://survey.stackoverflow.co/2023/#section-admired-and-desired-web-frameworks-and-technologies)) de StackOverflow
