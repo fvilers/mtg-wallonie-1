@@ -20,3 +20,14 @@ title: "Combattre la fatigue avec Svelte"
 MTG Wallonie #1</small>
 
 ![bg right](./img/Svelte_Logo.svg)
+
+---
+
+# Qui suis-je
+
+- Développeur chevronné depuis plus de 25 ans
+- [Freelance](https://www.dev-one.com/) depuis 13 ans
+- Entrepreneur, passionné du web, photographe amateur, père de deux filles, gamer, et l'humain d'un Akita Inu
+- Speaker au Dev Day, PowerBranch, Software Craft Luxembourg, DevFM, Journée Agile,...
+- Suivez moi (@fvilers) sur [GitHub](https://github.com/fvilers), [Twitter](https://twitter.com/fvilers), ou [Instagram](https://www.instagram.com/fvilers)
+- Soyons connectés sur [LinkedIn](https://www.linkedin.com/in/fvilers)
