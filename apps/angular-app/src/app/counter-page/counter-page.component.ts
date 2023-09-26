@@ -8,6 +8,10 @@ import { Component } from '@angular/core';
 export class CounterPageComponent {
   counter = 0;
 
+  get doubled(): number {
+    return this.counter * 2;
+  }
+
   increment(): void {
     this.counter++;
   }
