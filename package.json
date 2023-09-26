@@ -1,6 +1,7 @@
 {
   "name": "apps",
   "workspaces": [
-    "apps/angular-app"
+    "apps/angular-app",
+    "apps/react-app"
   ]
 }
