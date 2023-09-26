@@ -76,3 +76,11 @@ MTG Wallonie #1</small>
 - Framework applicatif fournissant : routing, server side rendering, data fetching, service workers, prerendering, single-page apps, création de library, build optimisé
 - Mais également : form actions, multiple-page applications, progressive enhancement, zero-config deployments, preloading
 - Un [tutoriel](https://learn.svelte.dev/tutorial/introducing-sveltekit) (lui aussi) hors du commun
+
+---
+
+# Svelte 5
+
+- Annoncé il y a quelques jours
+- Svelte 5 introduira *des runes* qui offriront une réactivité *universelle et précise* à base de "signals".
+- Plus d'informations sur https://svelte.dev/blog/runes
