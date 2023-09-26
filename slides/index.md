@@ -84,3 +84,12 @@ MTG Wallonie #1</small>
 - Annoncé il y a quelques jours
 - Svelte 5 introduira *des runes* qui offriront une réactivité *universelle et précise* à base de "signals".
 - Plus d'informations sur https://svelte.dev/blog/runes
+
+---
+
+# Voyons ça de plus près
+Comparons différentes implémentations en Angular, React, et Svelte
+
+![bg right:60%](./img/alexander-sinn-KgLtFCgfC28-unsplash.jpg)
+
+<!-- _footer: Photo by <a href="https://unsplash.com/@swimstaralex?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexander Sinn</a> on <a href="https://unsplash.com/photos/KgLtFCgfC28?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
