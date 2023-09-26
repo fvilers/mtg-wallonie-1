@@ -1,4 +1,6 @@
 <script lang="ts">
+  import Counter from "$lib/components/Counter.svelte";
+
   let counter = 0;
   $: doubled = counter * 2;
 
@@ -8,6 +10,6 @@
 </script>
 
 <h1>Counter</h1>
-<div>Counter: {counter}</div>
-<div>Doubled: {doubled}</div>
+<Counter value={counter} />
+<Counter value={doubled} />
 <button on:click={increment}>Increment</button>

@@ -1,4 +1,5 @@
 import { useCallback, useMemo, useState } from "react";
+import Counter from "./Counter";
 
 function CounterPage() {
   const [counter, setCounter] = useState(0);
@@ -8,8 +9,8 @@ function CounterPage() {
   return (
     <>
       <h1>Counter</h1>
-      <div>Counter: {counter}</div>
-      <div>Doubled: {doubled}</div>
+      <Counter value={counter} />
+      <Counter value={doubled} />
       <button onClick={increment}>Increment</button>
     </>
   );
