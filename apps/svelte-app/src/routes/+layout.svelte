@@ -1,3 +1,7 @@
+<script lang="ts">
+  import "../global.css";
+</script>
+
 <h1>Svelte app</h1>
 <nav>
   <ul>
