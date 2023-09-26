@@ -68,3 +68,11 @@ MTG Wallonie #1</small>
 - Pas de DOM virtuel, donc pas de pertes de performance
 - Un [tutoriel](https://learn.svelte.dev/tutorial/welcome-to-svelte) hors du commun
 - Second framework le plus admiré dans [le sondage annuel]((https://survey.stackoverflow.co/2023/#section-admired-and-desired-web-frameworks-and-technologies)) de StackOverflow
+
+---
+
+# SvelteKit, piles incluses
+
+- Framework applicatif fournissant : routing, server side rendering, data fetching, service workers, prerendering, single-page apps, création de library, build optimisé
+- Mais également : form actions, multiple-page applications, progressive enhancement, zero-config deployments, preloading
+- Un [tutoriel](https://learn.svelte.dev/tutorial/introducing-sveltekit) (lui aussi) hors du commun
