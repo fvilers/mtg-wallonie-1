@@ -1,0 +1,6 @@
+{
+  "name": "apps",
+  "workspaces": [
+    "apps/angular-app"
+  ]
+}
